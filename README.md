@@ -30,5 +30,5 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvishkaHashenu&theme=dark" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api//?username=avishkahashenu&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api//?username=AvishkaHashenu&theme=dark" />
 
