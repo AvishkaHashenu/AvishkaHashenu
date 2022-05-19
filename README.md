@@ -7,10 +7,10 @@
 <a href="https://twitter.com/avishkahashenu">
   <img align="left" alt="Twitter page of Avishka" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<?
+
 <a href="https://web.facebook.com/profile.php?id=100006103368661">
-  <img align="left" alt="Facebook page of Avishka" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-</a>?>
+  <img align="left" alt="Facebook page of Avishka" width="22px" src="#" />
+</a>
 
 <p>
 <!-- count visitors -->
